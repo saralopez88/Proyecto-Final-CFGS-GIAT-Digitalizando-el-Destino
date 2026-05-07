@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507145601SH0KMI</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605071456016JDZWM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto Digitalizando el Destino</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara López Calo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo abierto para el CFGS de Guía, Información y Asistencias Turísticas sobre la creación de guías digitales interactivas y seguras.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778156166153</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movg9qsw-5c06irum9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción sobre el proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción sobre el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción sobre el proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción sobre el proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qsw-5c06irum9</odePageId>
+      <odeBlockId>block-1773252903938-zbfsbwyju</odeBlockId>
+      <blockName>Bienvenida</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qsw-5c06irum9</odePageId>
+          <odeBlockId>block-1773252903938-zbfsbwyju</odeBlockId>
+          <odeIdeviceId>idevice-1773252903936-csztzkydt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>¡Hola a todos y todas!</strong> En este módulo de Destinos Turísticos, vamos a dejar a un lado los catálogos de papel para convertirnos en auténticos arquitectos de experiencias digitales.</p>
+<p style="text-align: justify;"><strong>¿Cuál es tu misión?</strong> Te convertirás en un especialista en destinos creando una Guía Turística Dinámica. No será un simple documento; será una herramienta interactiva, segura y ética que ayudará a los viajeros a descubrir el mundo de una forma nueva.</p>
+<p style="text-align: justify;"><strong>¿Qué vas a encontrar en este recurso?</strong></p>
+<p style="text-align: justify;">- Ruta de aprendizaje: Una línea temporal clara para que sepas qué hacer en cada momento.<br />- Caja de herramientas: Acceso directo a las mejores aplicaciones para diseñar y organizar contenido.<br />- Guía de seguridad: Consejos clave para moverte por la red de forma profesional.</p>
+<p style="text-align: justify;"><strong>¡Tu opinión cuenta! </strong>Al final del proyecto, tendrás un espacio de autoevaluación para reflexionar sobre lo aprendido. Navega libremente por el menú de la izquierda para comenzar tu aventura.</p>
+<p style="text-align: justify;">Recordad que un/a buen/a guía hoy en día no solo conoce el destino, sino que sabe cómo comunicarlo de forma ética, segura y accesible en la red.</p>
+<p style="text-align: justify;"><strong>¿Estáis preparados para transformar el turismo del mañana?</strong></p>
+<p style="text-align: justify;"><strong>¡Empezamos!</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773252903936-csztzkydt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>¡Hola a todos y todas!</strong> En este módulo de Destinos Turísticos, vamos a dejar a un lado los catálogos de papel para convertirnos en auténticos arquitectos de experiencias digitales.</p>\n<p style=\"text-align: justify;\"><strong>¿Cuál es tu misión?</strong> Te convertirás en un especialista en destinos creando una Guía Turística Dinámica. No será un simple documento; será una herramienta interactiva, segura y ética que ayudará a los viajeros a descubrir el mundo de una forma nueva.</p>\n<p style=\"text-align: justify;\"><strong>¿Qué vas a encontrar en este recurso?</strong></p>\n<p style=\"text-align: justify;\">- Ruta de aprendizaje: Una línea temporal clara para que sepas qué hacer en cada momento.<br />- Caja de herramientas: Acceso directo a las mejores aplicaciones para diseñar y organizar contenido.<br />- Guía de seguridad: Consejos clave para moverte por la red de forma profesional.</p>\n<p style=\"text-align: justify;\"><strong>¡Tu opinión cuenta! </strong>Al final del proyecto, tendrás un espacio de autoevaluación para reflexionar sobre lo aprendido. Navega libremente por el menú de la izquierda para comenzar tu aventura.</p>\n<p style=\"text-align: justify;\">Recordad que un/a buen/a guía hoy en día no solo conoce el destino, sino que sabe cómo comunicarlo de forma ética, segura y accesible en la red.</p>\n<p style=\"text-align: justify;\"><strong>¿Estáis preparados para transformar el turismo del mañana?</strong></p>\n<p style=\"text-align: justify;\"><strong>¡Empezamos!</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qsy-ugbjw8wud</odePageId>
+  <odeParentPageId>page-movg9qsw-5c06irum9</odeParentPageId>
+  <pageName>Proyecto: Digitalizando el destino</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto: Digitalizando el destino</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Proyecto: Digitalizando el destino</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qsy-ugbjw8wud</odePageId>
+      <odeBlockId>block-1773254656819-6bcedq62t</odeBlockId>
+      <blockName>Inicio</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qsy-ugbjw8wud</odePageId>
+          <odeBlockId>block-1773254656819-6bcedq62t</odeBlockId>
+          <odeIdeviceId>idevice-1773254656816-fs0lr70i1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Introducción.</strong><br />Este proyecto consiste en el diseño de una guía turística digital interactiva para el módulo de Destinos Turísticos. El objetivo es que el alumnado de Guía, Información y Asistencias Turísticas desarrolle su competencia digital mediante la creación de itinerarios reales utilizando la herramienta de autor eXeLearning. A través de esta propuesta, se busca profesionalizar el uso de recursos tecnológicos en el aula, integrando de forma práctica la curación de contenidos y el respeto a los derechos de autor.</p>
+<p style="text-align: justify;"><strong>2. Datos identificativos del proyecto.</strong><br />- Título descriptivo: Digitalizando el destino: creación de guías dinámicas e interactivas.</p>
+<p style="text-align: justify;">- Centro de interés o temática: El diseño y promoción de recursos turísticos locales mediante el uso de cartografía digital y herramientas de autor.</p>
+<p style="text-align: justify;">- Nivel al que va dirigido: 1º curso de CFGS Guía, Información y Asistencias Turísticas.</p>
+<p style="text-align: justify;">- Materia implicada: Destinos Turísticos (estrechamente vinculado con el módulo profesional Recursos Turísticos).</p>
+<p style="text-align: justify;">- Temporalización aproximada: 8 sesiones de 60 minutos repartidas en 3 semanas.</p>
+<p style="text-align: justify;">- Idioma: Castellano.</p>
+<p style="text-align: justify;"><strong>3. Descripción general.</strong><br />El alumnado deberá diseñar una guía turística digital de una comarca específica. Para ello, no se limitarán a un formato estático, sino que deberán integrar:</p>
+<ul style="text-align: justify;">
+<li>Mapas interactivos con puntos de interés (recursos culturales y naturales).</li>
+<li>Contenido multimedia (audio-guías o vídeos breves explicativos) creados por ellos mismos (una opción que les atrae mucho es crear su propio avatar).</li>
+<li>Una curación de contenidos sobre la normativa de sostenibilidad del destino.</li>
+</ul>
+<p style="text-align: justify;">El proyecto se estructurará a través de la herramienta eXeLearning, que servirá como soporte para organizar toda la información y facilitar la navegación del usuario final. Se aplicarán pautas DUA (Diseño Universal de Aprendizaje) para asegurar que la información sea accesible para todo el alumnado (subtítulos en vídeos, textos alternativos en imágenes, estructura clara de contenidos, división de tareas), que todos y todas lleguen a la meta y que el camino no sea impedimento.</p>
+<p style="text-align: justify;">Saludos,</p>
+<p style="text-align: justify;">Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773254656816-fs0lr70i1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Introducción.</strong><br />Este proyecto consiste en el diseño de una guía turística digital interactiva para el módulo de Destinos Turísticos. El objetivo es que el alumnado de Guía, Información y Asistencias Turísticas desarrolle su competencia digital mediante la creación de itinerarios reales utilizando la herramienta de autor eXeLearning. A través de esta propuesta, se busca profesionalizar el uso de recursos tecnológicos en el aula, integrando de forma práctica la curación de contenidos y el respeto a los derechos de autor.</p>\n<p style=\"text-align: justify;\"><strong>2. Datos identificativos del proyecto.</strong><br />- Título descriptivo: Digitalizando el destino: creación de guías dinámicas e interactivas.</p>\n<p style=\"text-align: justify;\">- Centro de interés o temática: El diseño y promoción de recursos turísticos locales mediante el uso de cartografía digital y herramientas de autor.</p>\n<p style=\"text-align: justify;\">- Nivel al que va dirigido: 1º curso de CFGS Guía, Información y Asistencias Turísticas.</p>\n<p style=\"text-align: justify;\">- Materia implicada: Destinos Turísticos (estrechamente vinculado con el módulo profesional Recursos Turísticos).</p>\n<p style=\"text-align: justify;\">- Temporalización aproximada: 8 sesiones de 60 minutos repartidas en 3 semanas.</p>\n<p style=\"text-align: justify;\">- Idioma: Castellano.</p>\n<p style=\"text-align: justify;\"><strong>3. Descripción general.</strong><br />El alumnado deberá diseñar una guía turística digital de una comarca específica. Para ello, no se limitarán a un formato estático, sino que deberán integrar:</p>\n<ul style=\"text-align: justify;\">\n<li>Mapas interactivos con puntos de interés (recursos culturales y naturales).</li>\n<li>Contenido multimedia (audio-guías o vídeos breves explicativos) creados por ellos mismos (una opción que les atrae mucho es crear su propio avatar).</li>\n<li>Una curación de contenidos sobre la normativa de sostenibilidad del destino.</li>\n</ul>\n<p style=\"text-align: justify;\">El proyecto se estructurará a través de la herramienta eXeLearning, que servirá como soporte para organizar toda la información y facilitar la navegación del usuario final. Se aplicarán pautas DUA (Diseño Universal de Aprendizaje) para asegurar que la información sea accesible para todo el alumnado (subtítulos en vídeos, textos alternativos en imágenes, estructura clara de contenidos, división de tareas), que todos y todas lleguen a la meta y que el camino no sea impedimento.</p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qsz-d26ihx2pa</odePageId>
+  <odeParentPageId>page-movg9qsy-ugbjw8wud</odeParentPageId>
+  <pageName>Seguridad en la Red</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en la Red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad en la Red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qsz-d26ihx2pa</odePageId>
+      <odeBlockId>block-1773257131479-96lk0vwbe</odeBlockId>
+      <blockName>Infografía seguridad en la Red</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qsz-d26ihx2pa</odePageId>
+          <odeBlockId>block-1773257131479-96lk0vwbe</odeBlockId>
+          <odeIdeviceId>idevice-1773257131478-06rnw6cjc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas!</p>
+<p style="text-align: justify;">La información en el sector turístico entra por los ojos. En este apartado encontrarás una infografía que resume los puntos clave de nuestro proyecto de forma visual y esquemática.</p>
+<p style="text-align: justify;">Este recurso está diseñado para ofrecerte un 'golpe de vista' sobre los datos más relevantes, facilitando la retención de conceptos y ayudándote a conectar las ideas principales antes de pasar a la acción. ¡Utilízala como mapa de consulta rápida durante todo el reto!</p>
+<p>También podéis acceder en línea <a href="https://www.canva.com/design/DAHDXWBIe1g/XfF7aX8LRWzp1XehUqW_aA/edit?utm_content=DAHDXWBIe1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener" id="link_12">AQUÍ</a>.</p>
+<p><iframe width="1536" height="768" src="{{context_path}}/content/resources/Infografía Ciberseguridad"></iframe></p>
+<p>Saludos,</p>
+<p>Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257131478-06rnw6cjc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas!</p>\n<p style=\"text-align: justify;\">La información en el sector turístico entra por los ojos. En este apartado encontrarás una infografía que resume los puntos clave de nuestro proyecto de forma visual y esquemática.</p>\n<p style=\"text-align: justify;\">Este recurso está diseñado para ofrecerte un 'golpe de vista' sobre los datos más relevantes, facilitando la retención de conceptos y ayudándote a conectar las ideas principales antes de pasar a la acción. ¡Utilízala como mapa de consulta rápida durante todo el reto!</p>\n<p>También podéis acceder en línea <a href=\"https://www.canva.com/design/DAHDXWBIe1g/XfF7aX8LRWzp1XehUqW_aA/edit?utm_content=DAHDXWBIe1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\" id=\"link_12\">AQUÍ</a>.</p>\n<p><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/Infografía Ciberseguridad\"></iframe></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qsz-im0zsqoz6</odePageId>
+  <odeParentPageId>page-movg9qsy-ugbjw8wud</odeParentPageId>
+  <pageName>El reto: Tu guía turística digital</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reto: Tu guía turística digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El reto: Tu guía turística digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qsz-im0zsqoz6</odePageId>
+      <odeBlockId>block-1773257289438-vu8mwqaw5</odeBlockId>
+      <blockName>El reto real</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qsz-im0zsqoz6</odePageId>
+          <odeBlockId>block-1773257289438-vu8mwqaw5</odeBlockId>
+          <odeIdeviceId>idevice-1773257289437-zcxv5cah1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¡Hola a todos y a todas!</p>
+<p style="text-align: justify;">Para el producto final de la unidad en el módulo de Destinos Turísticos, os voy a proponer el uso combinado de Google My Maps (para la cartografía interactiva) y Canva (para el diseño visual del catálogo de recursos).</p>
+<p style="text-align: justify;"><strong>Objetivo de las herramientas:</strong> El objetivo es que seáis capaces de geolocalizar recursos turísticos, añadir información técnica multimedia en cada punto y presentar un producto final con un acabado profesional que simule un encargo real del sector.</p>
+<p style="text-align: justify;"><strong>Justificación de la elección:</strong></p>
+<p style="text-align: justify;">- Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id="link_3" title="Enlace a web. Abre en ventana nueva" />- Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />- Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.</p>
+<p style="text-align: justify;"><strong>¿Qué debéis hacer exactamente?</strong><br /></p>
+<p><strong>Semana 1: Investigación y Análisis</strong></p>
+<p>- Análisis de destinos: Debatiréis en gran grupo sobre las tipologías de destinos y analizaréis en parejas casos concretos.<br />- Curación de contenidos: Identificaréis de forma individual los recursos culturales y naturales más relevantes, seleccionando información de calidad mediante la herramienta Padlet.<br />- Estudio de mercado: En pequeños grupos, seleccionaréis los destinos finales basándoos en su relevancia comercial y las tendencias actuales del sector.</p>
+<p><strong>Semana 2: Creación Digital</strong></p>
+<p>- Cartografía interactiva: Utilizaréis Google My Maps para geolocalizar los recursos turísticos seleccionados, trabajando de forma colaborativa para enriquecer cada punto con datos técnicos.<br />Ética y derechos: Verificaréis la autoría de las fuentes y aseguraréis que las imágenes y datos utilizados cumplen con las licencias Creative Commons y la normativa de protección de datos.</p>
+<p><strong>Semana 3: Producto final y entrega</strong></p>
+<p>- Diseño y maquetación: Utilizaréis Canva para diseñar el catálogo visual, integrando el mapa interactivo y ensamblando toda la información técnica.<br />- Publicación: Realizaréis el acabado final del producto para que tenga una estética profesional, listo para ser presentado como un encargo real del sector turístico.</p>
+<p style="text-align: justify;">Para complementar la información que os doy os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea <a href="https://mm.tt/map/3959986012?t=iWGfQFOJ8I" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener">AQUÍ</a></p>
+<p style="text-align: justify;"><iframe width="1536" height="768" src="{{context_path}}/content/resources/hoja de ruta.PNG"></iframe></p>
+<p style="text-align: justify;">Saludos,</p>
+<p style="text-align: justify;">Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257289437-zcxv5cah1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Hola a todos y a todas!</p>\n<p style=\"text-align: justify;\">Para el producto final de la unidad en el módulo de Destinos Turísticos, os voy a proponer el uso combinado de Google My Maps (para la cartografía interactiva) y Canva (para el diseño visual del catálogo de recursos).</p>\n<p style=\"text-align: justify;\"><strong>Objetivo de las herramientas:</strong> El objetivo es que seáis capaces de geolocalizar recursos turísticos, añadir información técnica multimedia en cada punto y presentar un producto final con un acabado profesional que simule un encargo real del sector.</p>\n<p style=\"text-align: justify;\"><strong>Justificación de la elección:</strong></p>\n<p style=\"text-align: justify;\">- Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id=\"link_3\" title=\"Enlace a web. Abre en ventana nueva\" />- Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />- Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.</p>\n<p style=\"text-align: justify;\"><strong>¿Qué debéis hacer exactamente?</strong><br /></p>\n<p><strong>Semana 1: Investigación y Análisis</strong></p>\n<p>- Análisis de destinos: Debatiréis en gran grupo sobre las tipologías de destinos y analizaréis en parejas casos concretos.<br />- Curación de contenidos: Identificaréis de forma individual los recursos culturales y naturales más relevantes, seleccionando información de calidad mediante la herramienta Padlet.<br />- Estudio de mercado: En pequeños grupos, seleccionaréis los destinos finales basándoos en su relevancia comercial y las tendencias actuales del sector.</p>\n<p><strong>Semana 2: Creación Digital</strong></p>\n<p>- Cartografía interactiva: Utilizaréis Google My Maps para geolocalizar los recursos turísticos seleccionados, trabajando de forma colaborativa para enriquecer cada punto con datos técnicos.<br />Ética y derechos: Verificaréis la autoría de las fuentes y aseguraréis que las imágenes y datos utilizados cumplen con las licencias Creative Commons y la normativa de protección de datos.</p>\n<p><strong>Semana 3: Producto final y entrega</strong></p>\n<p>- Diseño y maquetación: Utilizaréis Canva para diseñar el catálogo visual, integrando el mapa interactivo y ensamblando toda la información técnica.<br />- Publicación: Realizaréis el acabado final del producto para que tenga una estética profesional, listo para ser presentado como un encargo real del sector turístico.</p>\n<p style=\"text-align: justify;\">Para complementar la información que os doy os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea <a href=\"https://mm.tt/map/3959986012?t=iWGfQFOJ8I\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\">AQUÍ</a></p>\n<p style=\"text-align: justify;\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/hoja de ruta.PNG\"></iframe></p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qsz-sbae6upgn</odePageId>
+  <odeParentPageId>page-movg9qsy-ugbjw8wud</odeParentPageId>
+  <pageName>Caja de herramientas (curación)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caja de herramientas (curación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Caja de herramientas (curación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qsz-sbae6upgn</odePageId>
+      <odeBlockId>block-1773257422334-0n7105nms</odeBlockId>
+      <blockName>Caja de herramientas</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qsz-sbae6upgn</odePageId>
+          <odeBlockId>block-1773257422334-0n7105nms</odeBlockId>
+          <odeIdeviceId>idevice-1773257422333-t2i3kqy2j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas!</p>
+<p>Este apartado contiene dos aspectos muy importantes:</p>
+<p>1. Por un lado la herramienta Padlet con todo lo necesario para el alumnado.</p>
+<p>2. Por otro lado la herramienta Symabloo con muchas utilidades para el profesorado.</p>
+<p>Saludos,</p>
+<p>Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257422333-t2i3kqy2j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas!</p>\n<p>Este apartado contiene dos aspectos muy importantes:</p>\n<p>1. Por un lado la herramienta Padlet con todo lo necesario para el alumnado.</p>\n<p>2. Por otro lado la herramienta Symabloo con muchas utilidades para el profesorado.</p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt0-zxwbo0p6s</odePageId>
+  <odeParentPageId>page-movg9qsz-sbae6upgn</odeParentPageId>
+  <pageName>Padlet contenidos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt0-zxwbo0p6s</odePageId>
+      <odeBlockId>block-1773257530190-egoh3pskr</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt0-zxwbo0p6s</odePageId>
+          <odeBlockId>block-1773257530190-egoh3pskr</odeBlockId>
+          <odeIdeviceId>idevice-1773257530189-swtmmzmkh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas tardes.</p>
+<p style="text-align: justify;">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>
+<p><a href="https://padlet.com/scflpez/smart-tourism-tu-maleta-digital-de-recursos-y-herramientas-iifdhfc8j1uwx3am" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener" id="link_13">ENLACE A PADLET</a></p>
+<p>Saludos,</p>
+<p>Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257530189-swtmmzmkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>\n<p><a href=\"https://padlet.com/scflpez/smart-tourism-tu-maleta-digital-de-recursos-y-herramientas-iifdhfc8j1uwx3am\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\" id=\"link_13\">ENLACE A PADLET</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt0-9cqnm3iz7</odePageId>
+  <odeParentPageId>page-movg9qsz-sbae6upgn</odeParentPageId>
+  <pageName>Symbaloo para docentes</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt0-9cqnm3iz7</odePageId>
+      <odeBlockId>block-1773257617201-w7156f5vk</odeBlockId>
+      <blockName>Symbaloo muy útil</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt0-9cqnm3iz7</odePageId>
+          <odeBlockId>block-1773257617201-w7156f5vk</odeBlockId>
+          <odeIdeviceId>idevice-1773257617201-tdd4eghvi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas tardes.</p>
+<p style="text-align: justify;">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>
+<p style="text-align: justify;"><a href="https://www.symbaloo.com/shared/AAAAB9yJVzAAA42AShTtHA==" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener" id="link_14">ENLACE A SYMBALOO</a></p>
+<p>Saludos,</p>
+<p>Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257617201-tdd4eghvi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>\n<p style=\"text-align: justify;\"><a href=\"https://www.symbaloo.com/shared/AAAAB9yJVzAAA42AShTtHA==\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\" id=\"link_14\">ENLACE A SYMBALOO</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt0-2z8noq1cx</odePageId>
+  <odeParentPageId>page-movg9qsw-5c06irum9</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt0-2z8noq1cx</odePageId>
+      <odeBlockId>block-1773258008362-94psexflc</odeBlockId>
+      <blockName>¿Cómo se evaluará?</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt0-2z8noq1cx</odePageId>
+          <odeBlockId>block-1773258008362-94psexflc</odeBlockId>
+          <odeIdeviceId>idevice-1773258008361-bu93ktl31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas!</p>
+<p>En este apartado vamos a tener acceso a las dos herramientas de evaluación que se van a utilizar:</p>
+<p>1. La rúbrica de evaluación.</p>
+<p>2. El cuestionario de Google Forms.</p>
+<p>Saludos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773258008361-bu93ktl31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas!</p>\n<p>En este apartado vamos a tener acceso a las dos herramientas de evaluación que se van a utilizar:</p>\n<p>1. La rúbrica de evaluación.</p>\n<p>2. El cuestionario de Google Forms.</p>\n<p>Saludos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt1-woy14vpja</odePageId>
+  <odeParentPageId>page-movg9qt0-2z8noq1cx</odeParentPageId>
+  <pageName>Rúbrica de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-woy14vpja</odePageId>
+      <odeBlockId>block-1773258121940-tc4evq4kk</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-woy14vpja</odePageId>
+          <odeBlockId>block-1773258121940-tc4evq4kk</odeBlockId>
+          <odeIdeviceId>idevice-1773258121936-y2yszin0j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Buenas!</p>
+<p style="text-align: justify;">Os dejo información de interés sobre el primer instrumento de evaluación utilizado:</p>
+<p style="text-align: justify;"><strong>Instrumento 1: Rúbrica de la guía turística digital.</strong><br /><strong>Qué evaluará</strong>: El producto final (la guía en eXeLearning/Canva). Se centrará en la calidad de la investigación, la correcta geolocalización de recursos y el uso ético de contenidos (licencias y protección de datos).</p>
+<p style="text-align: justify;"><strong>Criterios de evaluación asociados:</strong><br />a) Ubicación de destinos en el espacio geográfico.</p>
+<p style="text-align: justify;">b) Caracterización de destinos turísticos españoles según su especialización turística.</p>
+<p style="text-align: justify;">d) Identificación de recursos culturales y naturales.</p>
+<p style="text-align: justify;">g) Uso de diversas fuentes de información.</p>
+<p style="text-align: justify;"><strong>Análisis de datos y variables:</strong> Los datos obtenidos permitirán identificar si el alumnado domina las herramientas de autor. Si detecto una variable negativa (ej. mala calidad en las imágenes), la rúbrica me servirá para dar feedback inmediato sobre la importancia de la estética en el sector turístico y la búsqueda de mejores fuentes.</p>
+<p style="text-align: justify;"><iframe width="1536" height="768" src="{{context_path}}/content/resources/erúbrica.PNG"></iframe></p>
+<p style="text-align: justify;">Rúbrica creada con la herramienta digital <em>erúbrica</em>.</p>
+<p style="text-align: justify;">Saludos,</p>
+<p style="text-align: justify;">Sara.</p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773258121936-y2yszin0j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Buenas!</p>\n<p style=\"text-align: justify;\">Os dejo información de interés sobre el primer instrumento de evaluación utilizado:</p>\n<p style=\"text-align: justify;\"><strong>Instrumento 1: Rúbrica de la guía turística digital.</strong><br /><strong>Qué evaluará</strong>: El producto final (la guía en eXeLearning/Canva). Se centrará en la calidad de la investigación, la correcta geolocalización de recursos y el uso ético de contenidos (licencias y protección de datos).</p>\n<p style=\"text-align: justify;\"><strong>Criterios de evaluación asociados:</strong><br />a) Ubicación de destinos en el espacio geográfico.</p>\n<p style=\"text-align: justify;\">b) Caracterización de destinos turísticos españoles según su especialización turística.</p>\n<p style=\"text-align: justify;\">d) Identificación de recursos culturales y naturales.</p>\n<p style=\"text-align: justify;\">g) Uso de diversas fuentes de información.</p>\n<p style=\"text-align: justify;\"><strong>Análisis de datos y variables:</strong> Los datos obtenidos permitirán identificar si el alumnado domina las herramientas de autor. Si detecto una variable negativa (ej. mala calidad en las imágenes), la rúbrica me servirá para dar feedback inmediato sobre la importancia de la estética en el sector turístico y la búsqueda de mejores fuentes.</p>\n<p style=\"text-align: justify;\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/erúbrica.PNG\"></iframe></p>\n<p style=\"text-align: justify;\">Rúbrica creada con la herramienta digital <em>erúbrica</em>.</p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt1-jqqzfvd7m</odePageId>
+  <odeParentPageId>page-movg9qt0-2z8noq1cx</odeParentPageId>
+  <pageName>Cuestionario Google Forms</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario Google Forms</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Cuestionario Google Forms</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-jqqzfvd7m</odePageId>
+      <odeBlockId>block-1773258296229-pwtrskkan</odeBlockId>
+      <blockName>Cuestionario</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-jqqzfvd7m</odePageId>
+          <odeBlockId>block-1773258296229-pwtrskkan</odeBlockId>
+          <odeIdeviceId>idevice-1773258296228-u3uzu0u84</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Buenas!</p>
+<p style="text-align: justify;">La información de interés sobre el cuestionario es la siguiente:</p>
+<p style="text-align: justify;"><strong>Instrumento 2: Cuestionario de autoevaluación y feedback.</strong><br /><strong>Qué evaluará</strong>: El proceso de aprendizaje y la competencia digital alcanzada. Se realizará a mitad del proyecto mediante un formulario (Google Forms o Moodle).</p>
+<p style="text-align: justify;"><br /><strong>Objetivo y tratamiento de datos</strong>: Más allá de una calificación, este cuestionario busca obtener datos sobre qué herramientas les han resultado más difíciles (suele ser Google My Maps). Si los resultados muestran que un 40% tiene problemas técnicos, analizaré estos datos para dedicar una sesión de refuerzo específica, tratando así la variable de la "brecha digital" en el aula y también me servirá de ayuda, en primer lugar, para realizar una fase de control y tomar medidas correctivas y, en segundo lugar, para el futuro si vuelvo a realizar la misma actividad en cursos posteriores.<br /></p>
+<p style="text-align: justify;">Podéis cumplimentarlo pinchando <a href="https://docs.google.com/forms/d/e/1FAIpQLSfcYdgDxU3povwmlweiyj_hoXZcvDV7PVHg8BetIeoYjxKu_w/viewform?usp=sharing&ouid=107131771994001856310" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener" id="link_15">AQUÍ</a>.</p>
+<p style="text-align: justify;">Saludos,</p>
+<p style="text-align: justify;">Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773258296228-u3uzu0u84","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Buenas!</p>\n<p style=\"text-align: justify;\">La información de interés sobre el cuestionario es la siguiente:</p>\n<p style=\"text-align: justify;\"><strong>Instrumento 2: Cuestionario de autoevaluación y feedback.</strong><br /><strong>Qué evaluará</strong>: El proceso de aprendizaje y la competencia digital alcanzada. Se realizará a mitad del proyecto mediante un formulario (Google Forms o Moodle).</p>\n<p style=\"text-align: justify;\"><br /><strong>Objetivo y tratamiento de datos</strong>: Más allá de una calificación, este cuestionario busca obtener datos sobre qué herramientas les han resultado más difíciles (suele ser Google My Maps). Si los resultados muestran que un 40% tiene problemas técnicos, analizaré estos datos para dedicar una sesión de refuerzo específica, tratando así la variable de la \"brecha digital\" en el aula y también me servirá de ayuda, en primer lugar, para realizar una fase de control y tomar medidas correctivas y, en segundo lugar, para el futuro si vuelvo a realizar la misma actividad en cursos posteriores.<br /></p>\n<p style=\"text-align: justify;\">Podéis cumplimentarlo pinchando <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfcYdgDxU3povwmlweiyj_hoXZcvDV7PVHg8BetIeoYjxKu_w/viewform?usp=sharing&ouid=107131771994001856310\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\" id=\"link_15\">AQUÍ</a>.</p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-jqqzfvd7m</odePageId>
+      <odeBlockId>block-1773262149096-w5jpj88l2</odeBlockId>
+      <blockName>Cuestionario Google Forms</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-jqqzfvd7m</odePageId>
+          <odeBlockId>block-1773262149096-w5jpj88l2</odeBlockId>
+          <odeIdeviceId>idevice-1773262149095-hruzaknfb</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcYdgDxU3povwmlweiyj_hoXZcvDV7PVHg8BetIeoYjxKu_w/viewform?usp=sharing&ouid=107131771994001856310" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt1-ass65m9so</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica de consulta</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica de consulta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica de consulta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-ass65m9so</odePageId>
+      <odeBlockId>block-1773258589572-t3jb6dkrj</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-ass65m9so</odePageId>
+          <odeBlockId>block-1773258589572-t3jb6dkrj</odeBlockId>
+          <odeIdeviceId>idevice-1773258589571-95v3g1elf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Buenas!</p>
+<p style="text-align: justify;">Este recurso educativo ha sido diseñado como una propuesta de Aprendizaje Basado en Retos (ABR) para el alumnado del CFGS de Guía, Información y Asistencias Turísticas.</p>
+<p style="text-align: justify;">El objetivo principal es que el alumnado no solo aprenda sobre destinos, sino que desarrolle su competencia digital creando productos reales y profesionales. Se presenta la transposición didáctica donde se vinculan las actividades propuestas con los Criterios de Evaluación (CE) oficiales del currículo, garantizando así un aprendizaje alineado con los objetivos del módulo de Destinos Turísticos.</p>
+<p style="text-align: justify;">Dejo esta información de interés para compañeros y compañeras que deseen consultar sobre el valor curricular de mi propuesta de proyecto <a href="https://docs.google.com/document/d/1YrQ3X1st0Fzf3hapVsRMLFVaTwVg5REOKQbyAO1an0E/edit?usp=sharing" title="Enlace a web. Abre en ventana nueva" target="_blank" rel="noopener" id="link_16">AQUÍ</a>.</p>
+<p style="text-align: justify;">Gracias.</p>
+<p style="text-align: justify;">Saludos,</p>
+<p style="text-align: justify;">Sara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773258589571-95v3g1elf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Buenas!</p>\n<p style=\"text-align: justify;\">Este recurso educativo ha sido diseñado como una propuesta de Aprendizaje Basado en Retos (ABR) para el alumnado del CFGS de Guía, Información y Asistencias Turísticas.</p>\n<p style=\"text-align: justify;\">El objetivo principal es que el alumnado no solo aprenda sobre destinos, sino que desarrolle su competencia digital creando productos reales y profesionales. Se presenta la transposición didáctica donde se vinculan las actividades propuestas con los Criterios de Evaluación (CE) oficiales del currículo, garantizando así un aprendizaje alineado con los objetivos del módulo de Destinos Turísticos.</p>\n<p style=\"text-align: justify;\">Dejo esta información de interés para compañeros y compañeras que deseen consultar sobre el valor curricular de mi propuesta de proyecto <a href=\"https://docs.google.com/document/d/1YrQ3X1st0Fzf3hapVsRMLFVaTwVg5REOKQbyAO1an0E/edit?usp=sharing\" title=\"Enlace a web. Abre en ventana nueva\" target=\"_blank\" rel=\"noopener\" id=\"link_16\">AQUÍ</a>.</p>\n<p style=\"text-align: justify;\">Gracias.</p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-ass65m9so</odePageId>
+      <odeBlockId>block-1773262295283-nwq6a5kiz</odeBlockId>
+      <blockName>Guía didactica</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-ass65m9so</odePageId>
+          <odeBlockId>block-1773262295283-nwq6a5kiz</odeBlockId>
+          <odeIdeviceId>idevice-1773262295282-t62tqo2cs</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1YrQ3X1st0Fzf3hapVsRMLFVaTwVg5REOKQbyAO1an0E/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movg9qt1-o711btiwc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-o711btiwc</odePageId>
+      <odeBlockId>block-1773258811134-7uzj8wgt1</odeBlockId>
+      <blockName>Créditos y descarga</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-o711btiwc</odePageId>
+          <odeBlockId>block-1773258811134-7uzj8wgt1</odeBlockId>
+          <odeIdeviceId>idevice-1773258811130-72ph3n1im</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong>: Sara López Calo</p>
+<p><strong>Descripción</strong>: Recurso Educativo Abierto (REA) diseñado para el módulo de Destinos Turísticos (CFGS). Este proyecto busca integrar la competencia digital en el sector turístico mediante la creación de guías interactivas.</p>
+<p><strong>Licencia</strong>: Este material se publica bajo licencia Creative Commons Attribution Share Alike 4.0 (BY-SA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773258811130-72ph3n1im","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong>: Sara López Calo</p>\n<p><strong>Descripción</strong>: Recurso Educativo Abierto (REA) diseñado para el módulo de Destinos Turísticos (CFGS). Este proyecto busca integrar la competencia digital en el sector turístico mediante la creación de guías interactivas.</p>\n<p><strong>Licencia</strong>: Este material se publica bajo licencia Creative Commons Attribution Share Alike 4.0 (BY-SA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-movg9qt1-o711btiwc</odePageId>
+      <odeBlockId>block-1773258888993-akln1vjz0</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movg9qt1-o711btiwc</odePageId>
+          <odeBlockId>block-1773258888993-akln1vjz0</odeBlockId>
+          <odeIdeviceId>idevice-1773258888992-yp2mekapb</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto Digitalizando el Destino</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Recurso educativo abierto para el CFGS de Guía, Información y Asistencias Turísticas sobre la creación de guías digitales interactivas y seguras.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sara López Calo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p style="text-align: center;">Descarga aquí el archivo .elp para editar este recurso en eXeLearning.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
